@@ -101,3 +101,6 @@ article{
     border-radius: 5px;
     color: white;
 }
+button:hover{
+    background: coral;
+}
